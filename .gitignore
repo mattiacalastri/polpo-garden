@@ -1,0 +1,46 @@
+# Obsidian workspace state — non condividere
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.trash/
+
+# macOS / sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File locali sperimentali (devono restare privati)
+*.local.md
+*.draft.md
+*-PRIVATE.md
+*-DRAFT.md
+
+# File potenzialmente con PII — block list di sicurezza
+**/Clienti/
+**/Sessioni/
+**/Persone/
+**/Pipeline/
+**/KPI*.md
+**/MRR*.md
+**/session_current.md
+**/session_history.md
+**/MEMORY*.md
+
+# Backup
+*.bak
+*.backup
+*~
+
+# Test e scratch
+scratch/
+TEMP/
+TODO-private.md
