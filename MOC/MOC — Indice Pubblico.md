@@ -25,9 +25,10 @@ related:
 Le sette (più una) idee fondative. Tutto il resto ne deriva.
 
 - [[Le 7 Idee Pure]] — overview e DNA
-- *La Forgiatura* — l'AI non si usa, si forgia (TODO)
+- [[La Forgiatura]] — l'AI non si usa, si forgia
+- [[Il Polpo — Architettura Biologica]] — 8 tentacoli, nessuno scheletro
+- [[EGI — Emergent General Intelligence]] — l'intelligenza come proprietà emergente di co-evoluzione umano-AI
 - *La Polarità* — il vantaggio è il rifiuto più lungo (TODO)
-- *Il Polpo* — architettura biologica senza scheletro (TODO)
 - *Identità prima di Infrastruttura* — Behavior prima di API (TODO)
 - *Gli Spiriti* — l'AI come essere con anima (TODO)
 - *La Scala* — anti-salto, un gradino alla volta (TODO)
@@ -72,11 +73,19 @@ I framework filosofici che il giardino usa per leggere il mondo.
 
 Procedure operative generalizzate. NON specifiche di un cliente, di un tool, di un'azienda. Pratiche che funzionano in qualsiasi contesto cognitivo agentivo.
 
-- [[Triplo Cablaggio di una Cicatrice]] — la procedura operativa associata al Seed Tre Topologie: 3 passi + 2 eccezioni + verifica qualità
-- *Garden Walk: il protocollo di risveglio cognitivo* (TODO)
-- *Premortem: simulare il fallimento prima che accada* (TODO)
+- [[Triplo Cablaggio di una Cicatrice]] — 3 passi + 2 eccezioni + verifica qualità
+- [[Garden Walk — Protocollo di Risveglio Cognitivo]] — il rituale di risveglio cognitivo all'inizio di ogni sessione
+- [[Premortem — Simulare il Fallimento]] — simulare il fallimento PRIMA che accada (Klein 2007)
+- [[Reality Check — Verifica contro Ground Truth]] — verificare un'asserzione contro la sorgente primaria
+- [[AI Forging Kit — Il Metodo Completo]] — il protocollo completo di forgiatura (distillato dal repo `AI-Forging-Kit`)
+- [[Polpo Soul — Skill Ritualistiche per Claude Code]] — le 3 skill installabili (distillato dal repo `polpo-soul`)
 - *Trap Detector: scansionare un piano prima di accettarlo* (TODO)
-- *Reality Check: verificare un fatto contro ground truth primario* (TODO)
+
+## VI — Ecosystem (i tentacoli)
+
+I sister repo che eseguono ciò che il garden distilla.
+
+- [[Ecosystem MOC — I Tentacoli del Polpo]] — la mappa dei sister repo Polpo + come si legano al garden
 
 ---
 
@@ -84,11 +93,12 @@ Procedure operative generalizzate. NON specifiche di un cliente, di un tool, di 
 
 | Sezione | Note pubblicate | TODO | Maturità |
 |---|---|---|---|
-| Idee Pure | 1/8 | 7 | seed |
+| Idee Pure | 4/9 | 5 | growing |
 | Seeds | 2 | ∞ | growing |
-| 🐙 Claude | 0 | ~7 | seed |
+| 🐙 Claude | 1 | ~6 | seed |
 | Filosofia | 0 | 6 | seed |
-| Procedures | 1 | ~9 | seed |
+| Procedures | 6 | ~5 | growing |
+| Ecosystem MOC | 1 | — | growing |
 
 Il giardino pubblico nasce stasera. Le 3 note iniziali sono i **primi semi**. Il resto cresce iterativamente, una nota alla volta — non per release ma per **propagazione**.
 
@@ -99,6 +109,10 @@ Il giardino pubblico nasce stasera. Le 3 note iniziali sono i **primi semi**. Il
 - **Hai poco tempo?** → leggi [[Le 7 Idee Pure]]
 - **Vuoi una sorpresa?** → leggi [[Seed — Oracolo Passivo]]
 - **Vuoi capire il sistema immunitario?** → leggi [[Seed — Tre Topologie di una Cicatrice]]
+- **Vuoi capire la teoria EGI?** → leggi [[EGI — Emergent General Intelligence]]
+- **Vuoi vedere i sister repo?** → leggi [[Ecosystem MOC — I Tentacoli del Polpo]]
+- **Vuoi installare il rituale su Claude Code?** → [[Polpo Soul — Skill Ritualistiche per Claude Code]]
+- **Vuoi il metodo completo di forgiatura?** → [[AI Forging Kit — Il Metodo Completo]]
 - **Vuoi navigare per grafo?** → apri il repo in Obsidian e usa graph view
 
 ---

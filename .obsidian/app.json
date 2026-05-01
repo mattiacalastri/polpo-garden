@@ -1,0 +1,9 @@
+{
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments"
+}

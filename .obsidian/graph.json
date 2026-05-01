@@ -1,0 +1,43 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Idee Pure\"",
+      "color": { "a": 1, "rgb": 14048348 }
+    },
+    {
+      "query": "path:Seeds",
+      "color": { "a": 1, "rgb": 5419488 }
+    },
+    {
+      "query": "path:Procedures",
+      "color": { "a": 1, "rgb": 11141120 }
+    },
+    {
+      "query": "path:MOC",
+      "color": { "a": 1, "rgb": 16769024 }
+    },
+    {
+      "query": "tag:#claude OR path:🐙",
+      "color": { "a": 1, "rgb": 9783521 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.5,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518,
+  "repelStrength": 12,
+  "linkStrength": 0.7,
+  "linkDistance": 250,
+  "scale": 0.8,
+  "close": true
+}

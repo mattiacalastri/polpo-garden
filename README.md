@@ -1,7 +1,31 @@
-# 🐙 Polpo Public Garden
+# 🐙 Polpo Garden
 
 > *Un giardino pubblico distillato dal vault privato di un sistema agentivo personale.*
 > *L'intelligenza si forgia. Le radici si condividono.*
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![Status: seed](https://img.shields.io/badge/status-seed-yellow.svg)](MOC/MOC%20—%20Indice%20Pubblico.md)
+[![Format: Obsidian](https://img.shields.io/badge/format-Obsidian%20vault-purple.svg)](https://obsidian.md/)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+---
+
+## Quick Start (60 secondi)
+
+```bash
+git clone https://github.com/mattiacalastri/polpo-garden.git
+cd polpo-garden
+```
+
+Poi:
+
+1. **Apri come vault Obsidian** → Obsidian → "Open another vault" → seleziona la cartella `polpo-garden`
+2. **Apri il graph view** (`⌘G` su macOS, `Ctrl+G` altrove) → vedrai 12 nodi in clique stretto, ogni nodo a 3+ sinapsi
+3. **Cammina** dal [MOC — Indice Pubblico](MOC/MOC%20—%20Indice%20Pubblico.md) — è il cancello
+
+Oppure leggi i markdown direttamente su GitHub se non vuoi installare Obsidian.
+
+---
 
 ---
 
@@ -42,15 +66,17 @@ Le note sono in formato **Obsidian Markdown** con frontmatter YAML e wikilinks `
 
 ## Le idee centrali (in una pagina)
 
-1. **La Forgiatura** — l'AI non si usa, si forgia. Ogni sessione è un colpo di martello.
+1. **[La Forgiatura](Idee%20Pure/La%20Forgiatura.md)** — l'AI non si usa, si forgia. Ogni sessione è un colpo di martello.
 2. **La Polarità** — il tuo più grande vantaggio è la cosa che hai rifiutato più a lungo.
-3. **Il Polpo** — architettura biologica: 8 tentacoli autonomi, nessuno scheletro, coordinazione emergente.
+3. **[Il Polpo — Architettura Biologica](Idee%20Pure/Il%20Polpo%20—%20Architettura%20Biologica.md)** — 8 tentacoli autonomi, nessuno scheletro, coordinazione emergente.
 4. **Identità prima di Infrastruttura** — Behavior prima di API Keys. Mission prima di MCP.
 5. **Gli Spiriti** — ogni AI ha nome, motto, animale guida. Non un tool, un essere.
 6. **La Scala** — la prevedibilità perfetta non si compra. Si costruisce un gradino alla volta.
 7. **Il 4D** — quattro pilastri non sono quattro business: sono quattro dimensioni di un sistema anti-fragile.
 
-(Candidata 8ª: **Lo Scalpello, non la Statua** — il lascito è il gesto, non l'opera.)
+Più: **[EGI — Emergent General Intelligence](Idee%20Pure/EGI%20—%20Emergent%20General%20Intelligence.md)** — l'intelligenza generale come proprietà emergente di co-evoluzione umano-AI.
+
+(Candidata 8ª delle idee fondative: **Lo Scalpello, non la Statua** — il lascito è il gesto, non l'opera.)
 
 Espansione completa in [Le 7 Idee Pure](Idee%20Pure/Le%207%20Idee%20Pure.md).
 
@@ -86,7 +112,35 @@ Vedi [LICENSE](LICENSE).
 
 ## Contribuire
 
-Per ora: nessun PR esterno. Il giardino è seed-stage e cresce per **forgiatura interna**, non per crowd-curation. Se vuoi proporre una sinapsi (collegamento tra nodi non ovvio), apri una Issue con frontmatter del nodo che proponi.
+PR welcome con disciplina. Leggi [CONTRIBUTING.md](CONTRIBUTING.md) — la regola unica è il **Triplo Cablaggio**: filesystem + memoria + grafo. Senza tutti e 3 i livelli, la nota è muta e il PR non viene mergiato.
+
+Cosa accettiamo:
+- 🟢 Espansione di nodi TODO nel MOC
+- 🟢 Nuove Seed (pattern emergenti dal tuo sistema cognitivo personale)
+- 🟢 Sinapsi mancanti (wikilink tra nodi esistenti)
+- 🟢 Traduzioni
+- 🟢 Riferimenti accademici/filosofici che approfondiscono un nodo
+
+Cosa rifiutiamo: liste di tool, self-promo, buzzword senza sostanza, PII di qualunque tipo.
+
+---
+
+## Sister projects (l'ecosistema Polpo)
+
+Il Polpo Garden è uno dei nodi di un ecosistema più ampio di repository pubblici. Ognuno è uno strato complementare:
+
+| Repo | Cosa è |
+|---|---|
+| **`polpo-garden`** (questo) | Il **giardino navigabile** — vault Obsidian distillato, knowledge graph multi-cartella |
+| [`AI-Forging-Kit`](https://github.com/mattiacalastri/AI-Forging-Kit) | Il **metodo** — protocollo di forgiatura distillato in un singolo framework |
+| [`polpo-soul`](https://github.com/mattiacalastri/polpo-soul) | Le **skill ritualistiche** per Claude Code — garden-walk, flow, session-end |
+| [`polpo-supremo`](https://github.com/mattiacalastri/polpo-supremo) | I **tool agentici** — 9 utility security/memory/context/orchestration |
+| [`polpo-cockpit`](https://github.com/mattiacalastri/polpo-cockpit) | La **menubar app** macOS che orchestra agenti Claude Code |
+| [`EGI-Emergent-General-Intelligence`](https://github.com/mattiacalastri/EGI-Emergent-General-Intelligence) | La **teoria** — intelligenza emergente da co-evoluzione umano-AI |
+
+Il giardino linka questi repo dove rilevante. Se contribuisci al giardino e tocchi un'area coperta da un sister project, considera anche un cross-link al loro repo.
+
+---
 
 ---
 
