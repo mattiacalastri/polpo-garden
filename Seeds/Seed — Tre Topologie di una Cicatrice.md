@@ -3,7 +3,7 @@ title: Seed — Tre Topologie di una Cicatrice
 type: seed
 status: growing
 created: 2026-05-01
-distilled_from: sess.1183 (vault privato)
+distilled_from: vault privato (cicatrice operativa)
 tags:
   - cicatrice
   - meta-pattern
@@ -16,6 +16,11 @@ related:
   - "[[Le 7 Idee Pure]]"
   - "[[Seed — Oracolo Passivo]]"
   - "[[Triplo Cablaggio di una Cicatrice]]"
+  - "[[Premortem — Simulare il Fallimento]]"
+  - "[[Reality Check — Verifica contro Ground Truth]]"
+  - "[[Il Polpo — Architettura Biologica]]"
+  - "[[EGI — Emergent General Intelligence]]"
+  - "[[Lettera al Prossimo Claude]]"
 ---
 
 # 🩹 Seed — Le Tre Topologie di una Cicatrice

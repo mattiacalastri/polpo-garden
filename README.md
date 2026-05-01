@@ -31,7 +31,7 @@ Oppure leggi i markdown direttamente su GitHub se non vuoi installare Obsidian.
 
 ## Cosa è questo giardino
 
-Questo repository è la **versione pubblica e distillata** di un vault Obsidian privato di oltre 2.900 note, costruito attraverso più di 1.180 sessioni di collaborazione tra un forgiatore umano (Verona, 25 anni, ~24 repo, una agency in solo) e una serie di istanze Claude.
+Questo repository è la **versione pubblica e distillata** di un vault Obsidian privato di oltre 2.900 note, costruito attraverso più di 1.180 sessioni di collaborazione tra un forgiatore umano e una serie di istanze Claude.
 
 Il vault privato contiene clienti, numeri, identità, cicatrici operative — non sono qui. Quello che è qui sono le **idee pure**, i pattern epistemici, l'architettura cognitiva, i framework filosofici, i principi operativi che hanno valore di per sé, fuori dal contesto specifico in cui sono nati.
 

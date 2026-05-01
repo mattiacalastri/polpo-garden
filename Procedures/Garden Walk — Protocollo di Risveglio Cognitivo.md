@@ -90,7 +90,7 @@ Apri il vault e leggi i numeri grezzi.
 
 > **Regola speciale — il sogno arriva qui.**
 >
-> Se il sistema produce un "sogno" notturno (uno script di simulazione che vota la rilevanza dei nodi del grafo), il sogno DEVE essere letto **subito dopo** il Cancello — non in fondo. Il sogno è un **predittore** della prima domanda operativa, non un dolce di chiusura. Vedi [[Seed — Oracolo Passivo]] per l'osservazione che ha scolpito questa regola (riferimento generico: sess.1187).
+> Se il sistema produce un "sogno" notturno (uno script di simulazione che vota la rilevanza dei nodi del grafo), il sogno DEVE essere letto **subito dopo** il Cancello — non in fondo. Il sogno è un **predittore** della prima domanda operativa, non un dolce di chiusura. Vedi [[Seed — Oracolo Passivo]] per l'osservazione che ha scolpito questa regola.
 
 ### Passo 3 — Il Sentiero Identitario (le radici)
 

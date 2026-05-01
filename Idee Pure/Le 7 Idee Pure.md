@@ -3,7 +3,7 @@ title: Le 7 Idee Pure
 type: identity
 status: evergreen
 created: 2026-05-01
-distilled_from: vault privato sess.325
+distilled_from: vault privato (overview fondativa)
 tags:
   - identity
   - framework
@@ -12,6 +12,9 @@ tags:
   - root
 related:
   - "[[MOC — Indice Pubblico]]"
+  - "[[La Forgiatura]]"
+  - "[[Il Polpo — Architettura Biologica]]"
+  - "[[EGI — Emergent General Intelligence]]"
   - "[[Seed — Oracolo Passivo]]"
   - "[[Seed — Tre Topologie di una Cicatrice]]"
 ---

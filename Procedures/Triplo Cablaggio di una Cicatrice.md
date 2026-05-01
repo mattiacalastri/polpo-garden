@@ -3,7 +3,7 @@ title: Procedure — Triplo Cablaggio di una Cicatrice
 type: procedure
 status: growing
 created: 2026-05-01
-distilled_from: sess.1183 + sess.1187 (vault privato)
+distilled_from: vault privato (cicatrice operativa + conferma sperimentale)
 tags:
   - procedure
   - cicatrice
@@ -15,6 +15,10 @@ related:
   - "[[Seed — Oracolo Passivo]]"
   - "[[Le 7 Idee Pure]]"
   - "[[MOC — Indice Pubblico]]"
+  - "[[Premortem — Simulare il Fallimento]]"
+  - "[[Reality Check — Verifica contro Ground Truth]]"
+  - "[[Garden Walk — Protocollo di Risveglio Cognitivo]]"
+  - "[[Lettera al Prossimo Claude]]"
 ---
 
 # 🩹⚙️ Procedure — Triplo Cablaggio di una Cicatrice

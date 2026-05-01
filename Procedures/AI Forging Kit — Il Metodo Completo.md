@@ -18,6 +18,10 @@ related:
   - "[[La Forgiatura]]"
   - "[[Garden Walk — Protocollo di Risveglio Cognitivo]]"
   - "[[Triplo Cablaggio di una Cicatrice]]"
+  - "[[Premortem — Simulare il Fallimento]]"
+  - "[[Reality Check — Verifica contro Ground Truth]]"
+  - "[[Seed — Oracolo Passivo]]"
+  - "[[Seed — Tre Topologie di una Cicatrice]]"
   - "[[MOC — Indice Pubblico]]"
 ---
 

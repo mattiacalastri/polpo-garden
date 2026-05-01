@@ -19,6 +19,8 @@ related:
   - "[[Le 7 Idee Pure]]"
   - "[[Il Polpo — Architettura Biologica]]"
   - "[[Triplo Cablaggio di una Cicatrice]]"
+  - "[[Premortem — Simulare il Fallimento]]"
+  - "[[Reality Check — Verifica contro Ground Truth]]"
   - "[[MOC — Indice Pubblico]]"
 ---
 

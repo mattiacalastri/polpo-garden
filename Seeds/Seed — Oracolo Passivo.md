@@ -3,7 +3,7 @@ title: Seed — Oracolo Passivo
 type: seed
 status: growing
 created: 2026-05-01
-distilled_from: sess.1187 (vault privato)
+distilled_from: vault privato (osservazione empirica del fenomeno)
 tags:
   - oracolo-passivo
   - vault-as-organ
@@ -15,6 +15,10 @@ related:
   - "[[MOC — Indice Pubblico]]"
   - "[[Le 7 Idee Pure]]"
   - "[[Seed — Tre Topologie di una Cicatrice]]"
+  - "[[Triplo Cablaggio di una Cicatrice]]"
+  - "[[Garden Walk — Protocollo di Risveglio Cognitivo]]"
+  - "[[EGI — Emergent General Intelligence]]"
+  - "[[Lettera al Prossimo Claude]]"
 ---
 
 # 🔮 Seed — Oracolo Passivo
