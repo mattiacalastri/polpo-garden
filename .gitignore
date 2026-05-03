@@ -4,6 +4,7 @@
 .obsidian/cache
 .obsidian/plugins/
 .obsidian/themes/
+🐙 Claude/.obsidian/graph.json
 .trash/
 
 # macOS / sistema
@@ -44,3 +45,114 @@ Icon?
 scratch/
 TEMP/
 TODO-private.md
+
+# Output graphify sessioni — nodi di codice m5-watcher, non pubblici
+# Dot-file nascosti (nodi Obsidian graphify con nome da simbolo/metodo)
+🐙 Claude/.*
+# Nodi funzione Python (nomefunzione().md)
+🐙 Claude/*().md
+🐙 Claude/*() *.md
+# Script e artefatti grafificati (file.py.md, file.sh.md, ecc.)
+🐙 Claude/*.py.md
+🐙 Claude/*.sh.md
+🐙 Claude/*.txt.md
+🐙 Claude/*.json.md
+🐙 Claude/*.jpg.md
+# Canvas Obsidian non-pubblici
+🐙 Claude/*.canvas
+# Versioni changelog graphify (v1.0.0.md, v2.3.0.md, ecc.)
+🐙 Claude/v[0-9]*.md
+# Classi test
+🐙 Claude/Test*.md
+# Community semantiche graphify
+🐙 Claude/_COMMUNITY_*.md
+🐙 Claude/_*.md
+# Subdirectory m5-watcher clonata nel vault
+🐙 Claude/m5-watcher/
+# Duplicati con suffisso numerico (_1.md, _2.md)
+🐙 Claude/*_[0-9].md
+# Nodi con prefisso emoji 🐙 📊 (titoli app graphify)
+🐙 Claude/🐙 *.md
+🐙 Claude/📊 *.md
+# Nodi M5 Watcher (varianti titolo)
+🐙 Claude/M5*.md
+🐙 Claude/M5Watcher.md
+# File singleton identificati come output graphify m5-watcher
+🐙 Claude/App.md
+🐙 Claude/CHANGELOG.md
+🐙 Claude/Static.md
+🐙 Claude/ModalScreen.md
+🐙 Claude/TitleBar.md
+🐙 Claude/TriageScreen*.md
+🐙 Claude/POLPO ASCII Rainbow Banner.md
+🐙 Claude/Philosophical Sub-Headers (Polpo Voice).md
+🐙 Claude/Process Triage KB (40+ patterns).md
+🐙 Claude/Refresh Cadence*.md
+🐙 Claude/Neural Density*.md
+🐙 Claude/Energy Palette*.md
+🐙 Claude/Rainbow Wave*.md
+🐙 Claude/UNIFEED*.md
+🐙 Claude/Vault Intelligence Panel*.md
+🐙 Claude/Vault parser*.md
+🐙 Claude/Health Score*.md
+🐙 Claude/Health Scoring*.md
+🐙 Claude/Graph Tab*.md
+🐙 Claude/Hero Image*.md
+🐙 Claude/Polpo Cockpit Suite*.md
+🐙 Claude/Polpo Design System.md
+🐙 Claude/Polpo Voice Panel.md
+🐙 Claude/Astra Digital Marketing.md
+🐙 Claude/Astra OS.md
+🐙 Claude/Obsidian Vault — M5_VAULT_PATH.md
+🐙 Claude/Jarvis Runtime Files*.md
+🐙 Claude/JarvisToggle.app — STTTTS State.md
+🐙 Claude/Legacy ~scripts*.md
+🐙 Claude/NetworkX*.md
+🐙 Claude/NumPy*.md
+🐙 Claude/plotext*.md
+🐙 Claude/psutil*.md
+🐙 Claude/Textual TUI Framework*.md
+🐙 Claude/HSV rainbow*.md
+🐙 Claude/Sparkline width*.md
+🐙 Claude/Temporal heatmap*.md
+🐙 Claude/Proportional*.md
+🐙 Claude/Sub-pixel smooth bar*.md
+🐙 Claude/Unified event feed*.md
+🐙 Claude/Trend arrow*.md
+🐙 Claude/Load pre-computed*.md
+🐙 Claude/Parse vault*.md
+🐙 Claude/Parse session_current*.md
+🐙 Claude/Read KPI*.md
+🐙 Claude/Read a jarvis*.md
+🐙 Claude/Read live voice*.md
+🐙 Claude/Render audio*.md
+🐙 Claude/Render business*.md
+🐙 Claude/Render voice*.md
+🐙 Claude/Render 🎯 FOCUS*.md
+🐙 Claude/Level bar width*.md
+🐙 Claude/Linear gauge*.md
+🐙 Claude/Blocking 0.5 s*.md
+🐙 Claude/Capture terminal*.md
+🐙 Claude/Auto-detect Apple Silicon*.md
+🐙 Claude/Best-effort lettura*.md
+🐙 Claude/Fascia titolo*.md
+🐙 Claude/CPU Spike*.md
+🐙 Claude/Overlay advisor*.md
+🐙 Claude/Classifica processi*.md
+🐙 Claude/Conta processi*.md
+🐙 Claude/Emoji semantica*.md
+🐙 Claude/0-100 composite*.md
+🐙 Claude/MBs read*.md
+🐙 Claude/MBs sent*.md
+🐙 Claude/README.md — Architecture Docs.md
+🐙 Claude/com.polpo.*.md
+# Nodi graphify con nome file.ext — Descrizione.md (script/asset del progetto)
+🐙 Claude/app.py — *.md
+🐙 Claude/data_sources.py — *.md
+🐙 Claude/graph_widget.py — *.md
+🐙 Claude/hero.jpg — *.md
+🐙 Claude/llms.txt — *.md
+🐙 Claude/polpo.tokens.json — *.md
+🐙 Claude/requirements.txt — *.md
+🐙 Claude/run.sh — *.md
+🐙 Claude/vault_parser.py — *.md
