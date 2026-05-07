@@ -17,6 +17,8 @@ related:
   - "[[MOC — Indice Pubblico]]"
   - "[[Seed — Oracolo Passivo]]"
   - "[[Seed — Tre Topologie di una Cicatrice]]"
+  - "[[Backup come Replica Anti-Fragile]]"
+  - "[[Backup Anti-Fragile — Procedura M5 FULL-AI]]"
 ---
 
 # 🐙 Il Polpo — Architettura Biologica

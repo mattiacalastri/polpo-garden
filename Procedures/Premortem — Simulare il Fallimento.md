@@ -15,6 +15,7 @@ related:
   - "[[Seed — Tre Topologie di una Cicatrice]]"
   - "[[Le 7 Idee Pure]]"
   - "[[MOC — Indice Pubblico]]"
+  - "[[Backup come Replica Anti-Fragile]]"
 ---
 
 # Premortem — Simulare il Fallimento

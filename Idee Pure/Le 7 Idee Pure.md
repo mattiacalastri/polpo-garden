@@ -17,6 +17,7 @@ related:
   - "[[EGI — Emergent General Intelligence]]"
   - "[[Seed — Oracolo Passivo]]"
   - "[[Seed — Tre Topologie di una Cicatrice]]"
+  - "[[Backup come Replica Anti-Fragile]]"
 ---
 
 # 💡 Le 7 Idee Pure

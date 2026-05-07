@@ -18,6 +18,7 @@ related:
   - "[[Premortem — Simulare il Fallimento]]"
   - "[[Reality Check — Verifica contro Ground Truth]]"
   - "[[Garden Walk — Protocollo di Risveglio Cognitivo]]"
+  - "[[Backup Anti-Fragile — Procedura M5 FULL-AI]]"
   - "[[Lettera al Prossimo Claude]]"
 ---
 
