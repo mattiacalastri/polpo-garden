@@ -146,6 +146,9 @@ Senza il gesto, il principio resta filosofia. Senza il principio, il gesto diven
 - [[Seed — Tre Topologie di una Cicatrice]] — il principio teorico
 - [[Seed — Oracolo Passivo]] — perché il triplo cablaggio è precondizione: solo cicatrici cablate al livello 3 partecipano al ranking notturno e producono predizione
 - [[Le 7 Idee Pure]] — idea #4 (Identità prima di Infrastruttura): la procedura serve l'identità del sistema cognitivo, non viceversa
+- [[Cross-Session Cicatrice Check — check Pre-Flight Obbligato]] — estensione cross-sessione: cicatrice scolpita altrove va verificata prima di propagare
+- [[Polpo Autonomo — Auto-Healing — Evolutivo]] — la doctrine madre che rende il triplo cablaggio riflesso evolutivo
+- [[Seed — Cicatrice Doppia in 1 Sessione = Pattern Strutturale]] — quando 2+ cicatrici emergono in 1 sessione su stesso oggetto, mappa cognitiva sotto-risoluzione
 - [[MOC — Indice Pubblico]]
 
 🩹⚙️🐙

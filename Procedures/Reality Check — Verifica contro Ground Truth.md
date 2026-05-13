@@ -115,9 +115,25 @@ L'esempio è banale per costruzione. Il punto non è la complessità: è che **u
 
 ---
 
+## 9. Layer di ground truth — la mappa
+
+La verità non vive in un solo posto. Esistono almeno tre layer ortogonali di ground truth, e il Reality Check sceglie il layer giusto per l'asserzione:
+
+1. **Filesystem-emitted** — il file su disco, il `git log`, l'output di `ls`. Dottrina madre: "ground truth filesystem-first". Quando una memoria parla di una skill, di un file, di un commit — il filesystem è autoritativo.
+2. **Service-emitted** — l'API del fornitore (Stripe invoice, GHL contact, GCal event). Quando una memoria parla di un dato di business, il sistema autoritativo del fornitore è la verità — la nota di sessione no.
+3. **Host-emitted** — il payload che il runtime host emette verso gli strumenti (es. il payload JSON che Claude Code riceve dallo statusline, contenente `rate_limits`, `session.cost`, model object). Quando una memoria parla di stato dell'ambiente di esecuzione, il payload host è la verità più fresca disponibile — spesso più aggiornato di qualunque dashboard pubblica del fornitore.
+
+Il drift cognitivo classico è **chiedere "esiste un endpoint per X?"** quando X è già nel payload host. Vedi [[Sessioni/1680 — Polpo avvisa prima di spegnersi]]: l'asserzione era "non so quanto residuo del piano Claude Code Max 20x", e la verità era già nel payload via `rate_limits.seven_day.used_percentage` — observable in tempo reale, mai consultato per mesi. La cicatrice non è "manca un endpoint" ma "non ho letto cosa l'host già emette".
+
+---
+
 ## Vedi anche
 
 - [[Triplo Cablaggio di una Cicatrice]] — come scolpire il drift catturato in immunità duratura.
 - [[Seed — Tre Topologie di una Cicatrice]] — la grammatica per classificare i tipi di drift.
 - [[Le 7 Idee Pure]] — i principi madre da cui questa procedura discende.
+- [[Sessioni/1680 — Polpo avvisa prima di spegnersi]] — caso applicativo del layer host-emitted.
+- [[Cross-Session Cicatrice Check — check Pre-Flight Obbligato]] — estensione cross-sessione (sess.1682): cicatrice altrui ≠ ground truth.
+- [[Polpo Autonomo — Auto-Healing — Evolutivo]] — la doctrine che rende `/check` riflesso continuo.
+- [[Seed — Cicatrice Doppia in 1 Sessione = Pattern Strutturale]] — quando 2+ cicatrici emergono ravvicinate, è pattern non incidente.
 - [[MOC — Indice Pubblico]] — mappa generale del giardino pubblico.
